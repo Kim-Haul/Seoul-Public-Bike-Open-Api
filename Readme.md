@@ -20,7 +20,7 @@ $ Open in Default Browser
 
 <br />
 
-![logo](./images/readme_md_1.png)
+![logo](./images/readme_md_2.png)
 
 <br />
 
