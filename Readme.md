@@ -24,7 +24,7 @@ $ Open in Default Browser
 
 <br />
 
-## ajax.html
+## index.html
 
 ```html
 <button onclick="q1()">업데이트</button>
@@ -36,7 +36,7 @@ function q1() {
 
   $.ajax({
     type: "GET",
-    url: "http://spartacodingclub.shop/sparta_api/seoulbike",
+    url: "해당하는 API",
     data: {},
     success: function (response) {
       let rows = response["getStationList"]["row"];
