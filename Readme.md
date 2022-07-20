@@ -22,8 +22,6 @@ $ Open in Default Browser
 
 ![logo](./images/readme_md_1.png)
 
-![logo](./images/readme_md_2.png)
-
 <br />
 
 ## ajax.html
